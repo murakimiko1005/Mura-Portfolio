@@ -59,11 +59,11 @@ To get started with this project locally, follow these steps:
 
 This project is deployed on Vercel for fast and scalable hosting.
 
-### To deploy on Vercel:
+### To deploy on Netlify:
 
 1. Push your code to a Git repository (GitHub, GitLab, etc.)
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Vercel will automatically deploy your project!
+2. Connect your repository to [Netlify](https://app.netlify.com/)
+3. Netlify will automatically deploy your project!
 
 ## Contributing
 
